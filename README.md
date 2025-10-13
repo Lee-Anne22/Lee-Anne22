@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lee-Anne van der Merwe</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-- 🔭 I’m currently working on **SQL Analysis of NCR Ride Bookings**
+- 🔭 I’m currently working on **Capestone project**
 
-- 🌱 I’m currently learning **Linear Regression Machine Learning**
+- 🌱 I’m currently learning **Random Forests**
 
 - 📫 How to reach me **leeannevdm6@gmail.com**
 
