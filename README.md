@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lee-Anne van der Merwe</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-- 🔭 I’m currently working on my **Capstone project**
+- 🔭 I’m currently working on my **Capstone project** -> Student-Study-Habits---Further-Insights-and-Trends
 
 - 🌱 I’m currently learning **Random Forests, Quarto and Plotnine**
 
