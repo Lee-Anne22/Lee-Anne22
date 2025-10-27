@@ -5,6 +5,11 @@
 
 - 🌱 I’m currently learning **Random Forests, Quarto and Plotnine**
 
+- I have a background in **Biochemistry** and **Microbiology** which is ideal for data analytics for two reasons!
+    - 1) **I have a strong foundation in scientific thinking and data interpretation** - even statistical results - due to how biology students are trained to design experiments, collect data, and interpret     results using statistical methods.
+      2) **Experience with complex datasets and visualization.** Biological research often involves messy, multidimensional data — think gene expression profiles, protein sequence assays, or enzyme   thermodynamics. Navigating these datasets builds skills in data interpretation, visualization, and storytelling — core competencies for any data analyst.
+
+
 - 📫 How to reach me **leeannevdm6@gmail.com**
 
 - ⚡ Fun fact **I love diy projects and kitchen experiments**
