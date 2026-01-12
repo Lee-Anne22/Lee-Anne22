@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lee-Anne van der Merwe</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-- 🔭 **Capstone project** -> Student-Study-Habits---Further-Insights-and-Trends
+- 🔭 **Capstone project** -> Student-Study-Habits--Niche-Market-Research
 
 - 🌱 I’m currently learning **Quarto, Plotnine and PowerBI**
 
