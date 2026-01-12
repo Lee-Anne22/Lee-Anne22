@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lee-Anne van der Merwe</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-- 🔭 I’m currently working on my **Capstone project** -> Student-Study-Habits---Further-Insights-and-Trends
+- 🔭 **Capstone project** -> Student-Study-Habits---Further-Insights-and-Trends
 
-- 🌱 I’m currently learning **Random Forests, Quarto and Plotnine**
+- 🌱 I’m currently learning **Quarto, Plotnine and PowerBI**
 
 - I have a background in **Biochemistry** and **Microbiology** which is ideal for data analytics for two reasons!
   
