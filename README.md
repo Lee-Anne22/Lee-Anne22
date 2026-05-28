@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist</h3>
 
 - 🔭 **Recent projects** -> Bank Customer Churn — DataEngineering & Segmentation Pipeline
--                         -> Diabetes Readmission Risk — Clinical Data Preparation & Visual Analytics
+                          -> Diabetes Readmission Risk — Clinical Data Preparation & Visual Analytics
 
 - 🌱 I’m currently studying towards a **Postgraduate Diploma in Data Science**
 
