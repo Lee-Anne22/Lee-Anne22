@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lee-Anne van der Merwe</h1>
 <h3 align="center">Aspiring Data Scientist</h3>
 
-- 🔭 **Recent projects** -> Bank Customer Churn — DataEngineering & Segmentation Pipeline
-
--> Diabetes Readmission Risk — Clinical Data Preparation & Visual Analytics
+- 🔭 **Recent projects** -> Bank Customer Churn — Data Engineering & Segmentation Pipeline
 
 - 🌱 I’m currently studying towards a **Postgraduate Diploma in Data Science**
 
